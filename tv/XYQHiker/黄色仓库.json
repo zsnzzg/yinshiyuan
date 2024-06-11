@@ -21,7 +21,7 @@
 "分类名称": "无码中文字幕&有码中文字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
 "分类名称替换词": "8&9&10&7&15&21&22",
 "分类截取模式": "1",
-"分类列表数组规则": ".stui-vodlist.clearfix&&li:not(:contains(注册即送)):not(:contains(24小时在线匹配首次免费)):not(:contains(正宗莞式服务一条龙)):not(:contains(少女直播破处.高潮抽搐)):not(:contains(澳门威尼斯))",
+"分类列表数组规则": ".stui-vodlist.clearfix&&li:not(:contains(注册即送)):not(:contains(24小时在线匹配首次免费)):not(:contains(正宗莞式服务一条龙)):not(:contains(少女直播破处.高潮抽搐)):not(:contains(澳门威尼斯人官网))",
 "分类片单是否Jsoup写法": "1",
 "分类片单标题": ".title&&Text",
 "分类片单链接": "a&&href",
