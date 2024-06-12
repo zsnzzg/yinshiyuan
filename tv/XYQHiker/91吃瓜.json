@@ -21,7 +21,7 @@
 "分类名称": "首页&今日吃瓜&点击率榜&必吃大瓜&撸片圣地&明星黑料&暗网爆料&学生校园&老师干部&家庭乱伦",
 "分类名称替换词": "/&/category/jrcg/&/category/rsbd/&/category/bcdg/&/category/lpsd/&/category/mxhl/&/category/awbl/&/category/xsxy/&/category/lagb/&/category/jtll/",
 "分类截取模式": "1",
-"分类列表数组规则": "#archive&&article",
+"分类列表数组规则": "#archive|#index&&article",
 "分类片单是否Jsoup写法": "1",
 "分类片单标题": ".post-card-title&&Text",
 "分类片单链接": "a&&href",
