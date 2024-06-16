@@ -15,6 +15,8 @@
    //___
  
 {"key":"csp_XYQHiker_stripchat直播","name": "🔞stripchat直播(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/stripchat直播.json","style": {"type": "rect","ratio": 1.6}},
+{"key":"csp_XYQHiker_bongacams直播","name": "🔞bongacams直播(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/bongacams直播.json","style": {"type": "rect","ratio": 1.6}},
+
 {"key":"csp_XYQHiker_直播大全","name": "🔞直播大全(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/直播大全.json","style": {"type": "rect","ratio": 1.6}},
 {"key":"csp_XYQHiker_直播1","name": "🔞直播1(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/直播1.json","style": {"type": "rect","ratio": 1.6}},
 {"key":"csp_XYQHiker_直播2","name": "🔞直播2(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": {"规则名": "直播1-XYQHiker",
