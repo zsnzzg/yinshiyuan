@@ -1,7 +1,8 @@
 {
 //
-//回家地址 → https://zh.stripchat.com/数字改
+//回家地址 → https://zh.stripchat.com/
 //https://zh.stripchat.com/
+//免翻https://zh.stripchat.global/
 "规则名": "zh.stripchat.com-XYQHiker",
 "规则作者": "飞鱼",
 "请求头参数": "手机",
@@ -24,9 +25,9 @@
 //https://go.stripchatgirls.com
 //https://go.mnaspm.com
 //go.superchat.shop
-"分类链接": "https://go.superchat.shop/api/models?tag={cateId}&forceClient=1&stripcashR=0&limit=99&usePreroll&webp=1",
-"分类名称": "女主播&情侣&男主播&推荐&免费性爱&群交直播&女同&VR&变性人",
-"分类名称替换词": "girls/chinese&couples/chinese&men/popular&girls/recommended&girls/popular&couples/group-sex&couples/lesbians&girls/vr&trans/popular",
+"分类链接": "https://go.superchat.shop/api/models?tag={cateId}&forceClient=1&stripcashR=0&limit=200&usePreroll&webp=1&type=popular&timezone=Asia/Shanghai",
+"分类名称": "女主播&情侣&男主播&推荐&免费性爱&群交直播&女同&VR&变性人&新主播",
+"分类名称替换词": "girls/chinese&couples/chinese&men/popular&girls/recommended&girls/popular&couples/group-sex&couples/lesbians&girls/vr&trans/popular&girls/new",
 "分类截取模式": "0",
 "分类列表数组规则": "models",
 "分类片单是否Jsoup写法": "1",
