@@ -1,8 +1,9 @@
 {
+//小橙书https://av1024.me
    
     "规则名": "小黄书-XYQHiker",
     "规则作者": "飞鱼",
-    "请求头参数":"PC_UA",
+    "请求头参数":"手机",
     "网页编码格式":"UTF-8",
     "图片是否需要代理":"0",
     "是否开启获取首页数据":"1",
@@ -42,7 +43,7 @@
     "分类片单副标题":"'⏱️'+.duration&&Text+.series&&Text",
     "分类片单链接加前缀": "https://xchina.co",
     "分类片单链接加后缀": "",
-    "搜索请求头参数":"User-Agent$PC_UA",
+    "搜索请求头参数":"User-Agent$手机",
     "搜索链接": "https://xchina.co/index.php/ajax/suggest?mid=1&wd={wd}",
     "POST请求数据":"0",
     "搜索截取模式": "0",
