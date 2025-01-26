@@ -34,7 +34,7 @@
 "分类片单标题": "username",
 "分类片单链接": "username",
 "分类片单图片": "snapshotUrl",
-"分类片单副标题": "stream{url}",
+"分类片单副标题": "id+'https://edge-hls.doppiocdn.net/hls/'+id+'/master/'+id+'_480p.m3u8'",
 
 "分类片单链接加前缀": "https://zh.superchat.shop/",
 "分类片单链接加后缀": "",

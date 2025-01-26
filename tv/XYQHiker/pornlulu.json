@@ -1,23 +1,25 @@
 {
-"规则名": "pornlulu",
 //www.pornlulu.com
+//www.pornbest.co
+//www.ptt.sex
+"规则名": "pornlulu.com",
 "规则作者": "飞鱼",
-"请求头参数": "电脑",
+"请求头参数": "手机",
 "网页编码格式": "UTF-8",
 "图片是否需要代理": "0",
 "是否开启获取首页数据": "1",
-"首页推荐链接": "https://www.pornlulu.com/zh-hans/?sort=id",
+"首页推荐链接": "https://www.ptt.sex/zh-hans/?sort=id",
 "首页列表数组规则": "#videos",
 "首页片单列表数组规则": ".col-lg-3",
 "首页片单是否Jsoup写法": "1",
-"首页片单标题": ".two-lines&&a&&Text",
-"首页片单链接": ".two-lines&&a&&href",
+"首页片单标题": ".card-body&&a&&Text",
+"首页片单链接": ".card-body&&a&&href",
 "首页片单图片": "img&&src",
 "首页片单副标题": "更新+span&&Text",
-"首页片单链接加前缀": "https://www.pornlulu.com",
+"首页片单链接加前缀": "https://www.ptt.sex",
 "首页片单链接加后缀": "",
 "分类起始页码": "1",
-"分类链接": "https://www.pornlulu.com/zh-hans{cateId}?{by}&page={catePg}",
+"分类链接": "https://www.ptt.sex/zh-hans{cateId}?{by}&page={catePg}",
 //https://w1218.91p46.com/v.php?category=top&viewtype=basic&page=3
 //https://w1218.91p46.com/v.php?next=watch&page=2
 //https://w1218.91p46.com/v.php?category=hot&viewtype=basic&page=2
@@ -26,27 +28,27 @@
 "分类截取模式": "1",
 "分类列表数组规则": "#videos&&.card",
 "分类片单是否Jsoup写法": "1",
-"分类片单标题": ".two-lines&&a&&Text",
-"分类片单链接": "a&&href",
+"分类片单标题": ".card-body&&a&&Text",
+"分类片单链接": ".card-body&&a&&href",
 "分类片单图片": "img&&src",
 "分类片单副标题": "span&&Text",
-"分类片单链接加前缀": "https://www.pornlulu.com",
+"分类片单链接加前缀": "https://www.ptt.sex",
 "分类片单链接加后缀": "",
 
 
 
 
 "搜索请求头参数": "User-Agent$手机",
-"搜索链接": "https://www.pornlulu.com/q/{wd}?category_id=&page={catePg}",
+"搜索链接": "https://www.ptt.sex/q/{wd}?category_id=&page={catePg}",
 "POST请求数据": "",
 "搜索截取模式": "1",
 "搜索列表数组规则": "#videos&&.col-lg-3",
 "搜索片单是否Jsoup写法": "1",
 "搜索片单图片": "img&&data-src",
-"搜索片单标题": ".two-lines&&a&&Text",
-"搜索片单链接": ".two-lines&&a&&href",
+"搜索片单标题": ".card-body&&a&&Text",
+"搜索片单链接": ".card-body&&a&&href",
 "搜索片单副标题": "span&&Text",
-"搜索片单链接加前缀": "https://www.pornlulu.com",
+"搜索片单链接加前缀": "https://www.ptt.sex",
 "搜索片单链接加后缀": "",
 "链接是否直接播放": "1",
 "直接播放链接加前缀": "",
@@ -397,7 +399,7 @@
 "分析MacPlayer": "0",
 "是否开启手动嗅探": "1",
 "手动嗅探视频链接关键词": "index.m3u8",
-"手动嗅探视频链接过滤词": ".mp4"
+"手动嗅探视频链接过滤词": ".mp4#googleapis.com#gstatic.com#sagcoreedge.com#zijieapi.com#afcdn.net#cccdn.xyz#fqnovel.com#googletagmanager.com#google-analytics.com#pornbest.co"
 
 
 }
