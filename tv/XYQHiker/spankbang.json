@@ -23,6 +23,10 @@
 "分类链接": "https://spankbang.com{cateId}{catePg}/?o={by}",
 "分类名称": "最新视频&热门视频&受欢迎&即将推出&热门标签&全部标签",
 "分类名称替换词": "/new_videos/&/trending_videos/&/most_popular/&/upcoming/&/s/3d/&/s/18/",
+ //排序名称，对应分类链接{由}，排序1&排序2&排序3
+"筛选排序名称": "Trending&New&Popular&Featured"，
+//排序替换词，替换词1&替换词2&替换词3。如果替换词与名称一致可填*
+"筛选排序替换词": "Trending&New&Popular&Featured"，
 "分类截取模式": "1",
 "分类列表数组规则": ".video-list&&.video-item",
 "分类片单是否Jsoup写法": "1",
